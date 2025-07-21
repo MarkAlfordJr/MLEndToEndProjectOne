@@ -1,5 +1,6 @@
 import sys
 import logging
+from src.logger import logging # use this to log things correctly
 
 '''
 this custom class will be used through out the entire project, for any exception
