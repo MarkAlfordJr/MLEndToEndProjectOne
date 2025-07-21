@@ -141,6 +141,7 @@ celerybeat.pid
 env/
 venv/
 ENV/
+mlProjectOne/
 env.bak/
 venv.bak/
 
@@ -205,3 +206,5 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+Compendium.txt

@@ -1,0 +1,14 @@
+scikit-learn
+pip
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow
+keras
+torch
+ipykernel
+flask
+memory_profiler
+streamlit
+-e .
